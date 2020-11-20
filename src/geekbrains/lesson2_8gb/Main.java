@@ -36,6 +36,7 @@ public class Main {
 
         System.out.println("Элемент с индексом ["+ ind +"]:" + list.get(ind));
 
+
 //        System.out.println("Элемент с индексом [0]: " + list.get(0));
 //        System.out.println("Элемент с индексом [10]: " + list.get(10));
     }
