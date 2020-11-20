@@ -19,7 +19,7 @@ public class Main {
         System.out.println(list);
         System.out.println("Изначальный размер: " + list.size() + "\n");
 
-        System.out.println("Удаляем война...");
+        System.out.println("Удаляем воина...");
         System.out.println();
         list.remove("Воин");
 
